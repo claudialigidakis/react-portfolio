@@ -5,7 +5,7 @@
 .navbar {
   margin: 0px;
   padding: 0px;
-  background-color: #9D8189;
+  background-color: #634B66;
 }
 
 .nav-link {
@@ -28,9 +28,9 @@ mark {
 #skills {
   padding-bottom: 2rem;
   padding-top: 2rem;
-  color: #7C616C;
+  color: #444554;
   min-height: 40vh;
-  background-color: #E5E9EC;
+  background-color: #FBF9FF;
 }
 
 #about-content {
@@ -44,9 +44,9 @@ mark {
   font-size: 30px;
   padding-top: 2rem;
   text-align: center;
-  color: #7C616C;
+  color: #444554;
   min-height: 40vh;
-  background-color: #EAFDF8;
+  background-color: #DED9E2;
 }
 
 .portfolio {
@@ -59,7 +59,7 @@ mark {
 header {
   position: relative;
   height: 300px;
-  background-image: linear-gradient(#7C616C, #DDCAD9);
+  background-image: linear-gradient(#634B66, #DDCAD9);
 }
 
 h1 {
@@ -85,6 +85,6 @@ svg {
 
 #footer {
   padding-top: 1rem;
-  background-color: #9D8189;
-  color:#7C616C;
+  background-color: #634B66;
+  color: white;
 }
