@@ -26,13 +26,22 @@ mark {
 }
 
 #skills {
+  padding-bottom: 2rem;
   padding-top: 2rem;
   color: #7C616C;
   min-height: 40vh;
   background-color: #E5E9EC;
 }
 
+#about-content {
+  padding-top: 2rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+  font-size: 18px;
+}
+
 #about {
+  font-size: 30px;
   padding-top: 2rem;
   text-align: center;
   color: #7C616C;

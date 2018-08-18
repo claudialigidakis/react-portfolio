@@ -21,8 +21,8 @@ const ProjectCard =({id, title, subtitle, img, githubLink, hrefLink, labels}) =>
       <CardImg width="100%" height="auto" src={img} alt="Card image cap"/>
       <CardBody>
         <CardText>Key Words: {labels.map(label => `${label} `)}</CardText>
-        <CardLink href={hrefLink}>GitHub</CardLink>
-        <CardLink href={githubLink}>Site Link</CardLink>
+        <CardLink href={githubLink}>GitHub</CardLink>
+        <CardLink href={hrefLink}>Site Link</CardLink>
       </CardBody>
     </Card>
   )}
