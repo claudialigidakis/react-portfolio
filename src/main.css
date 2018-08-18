@@ -1,0 +1,81 @@
+*{
+  font-family: Helvetica;
+}
+
+.navbar {
+  margin: 0px;
+  padding: 0px;
+  background-color: #9D8189;
+}
+
+.nav-link {
+  color: white;
+}
+
+div.jumbotron {
+  margin-bottom: 0px;
+  padding: 0px;
+  min-height: 30rem;
+  height: 95vh;
+  background: url(https://cdn.shopify.com/s/files/1/2212/5665/products/inspire-uplift-frame-succulent-wall-hanger-frame-1378607661067_1000x.jpg?v=1519618970);
+  background-position: center center;
+}
+
+mark {
+  background-color: #D8E2DC;
+}
+
+#skills {
+  padding-top: 2rem;
+  color: #7C616C;
+  min-height: 40vh;
+  background-color: #E5E9EC;
+}
+
+#about {
+  padding-top: 2rem;
+  text-align: center;
+  color: #7C616C;
+  min-height: 40vh;
+  background-color: #EAFDF8;
+}
+
+.portfolio {
+  padding-top: 20px;
+  padding-bottom: 5rem;
+  min-height: 100vh;
+}
+
+
+header {
+  position: relative;
+  height: 300px;
+  background-image: linear-gradient(#7C616C, #DDCAD9);
+}
+
+h1 {
+  padding: 60px 0;
+  font-size: 80px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+header h1 {
+  color: white;
+}
+
+svg {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+}
+
+#footer {
+  padding-top: 1rem;
+  background-color: #9D8189;
+  color:#7C616C;
+}
